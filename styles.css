@@ -90,6 +90,7 @@ button {
 }
 
 footer {
+    background-color: white;
     bottom: 0px;
     width: 100%;
     position: fixed;
@@ -98,7 +99,7 @@ footer {
 }
 
 footer h2 {
-    margin-bottom: 12px;
+    margin-bottom: 8px;
 }
 
 footer p{
