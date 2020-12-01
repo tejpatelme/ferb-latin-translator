@@ -14,7 +14,7 @@ function errorHandler(error) {
 }
 
 function btnClickHandler() {
-    inputText = txtInput.value;);
+    inputText = txtInput.value;
     fetch(getTraslationURL(inputText))
     .then(response => response.json())
     .then(json => {
