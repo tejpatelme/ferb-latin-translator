@@ -90,9 +90,10 @@ button {
 }
 
 footer {
-    background-color: white;
-    width: 600px;
+    max-width: 600px;
     margin: auto;
+    margin-top: 20px;
+    background-color: white;
     text-align: center;
     padding: 1rem;
 }
